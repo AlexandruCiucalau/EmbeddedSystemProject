@@ -26,6 +26,8 @@ Key Implementations:
 
     Mux Modules: Multiplexer (MUX) modules were incorporated to streamline data routing and signal processing, enhancing the system's efficiency and responsiveness.
 
+    Wifi: For connecting car to the phone, using simple web page for changing formats of speed, time and temperature. Also for showing current value.
+
     Battery Management: The project also focused on efficient battery management, optimizing power consumption to extend the system's runtime and reliability.
 To implement this modules, I used Common Data file for shared variables and EEPROM module vor variablem that should be kept after the restart of the board (time, indications etc.)
 This project represents a holistic approach to system development, combining hardware integration, software implementation, and communication protocols to create a sophisticated onboard computer system. The successful integration of these functionalities, including battery management, demonstrates a deep understanding of embedded systems and a commitment to delivering innovative solutions for real-world applications.
